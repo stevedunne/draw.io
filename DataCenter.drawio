@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T10:42:42.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZLoEFAvYc-Xd9hYZKbbb" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T10:44:35.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WT3vGpLBNvhawy8XKcUy" version="21.5.1" type="github">
   <diagram name="Page-1" id="ub8uB4HLRKGlFlHKy2ON">
-    <mxGraphModel dx="1434" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
         <mxCell id="fBkCjeEgv5XvDUz1rkLj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="319.9999999999999" as="targetPoint" />
-            <mxPoint x="412" y="225" as="sourcePoint" />
+            <mxPoint x="414" y="225" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="414" y="225" />
               <mxPoint x="414" y="286" />
@@ -208,7 +208,7 @@
           <mxGeometry x="402" y="330.1" width="34" height="529.81" as="geometry" />
         </mxCell>
         <mxCell id="fBkCjeEgv5XvDUz1rkLj-69" value="DataCenters should exist in isolation. No traffic should cross this boundary." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="859.91" width="131" height="60" as="geometry" />
+          <mxGeometry x="401" y="859.91" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBkCjeEgv5XvDUz1rkLj-70" value="Where an application or service has a requirement to make an outgoing call a service that is not located in the same DC then this should be done via the GTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="859.91" width="265" height="60" as="geometry" />
