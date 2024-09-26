@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h5niV-6LIawMdhQsRi6P-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" parent="1" vertex="1">
-          <mxGeometry x="300" y="210" width="54.05" height="40" as="geometry" />
+          <mxGeometry x="290.95" y="227" width="71.62" height="53" as="geometry" />
         </mxCell>
         <mxCell id="h5niV-6LIawMdhQsRi6P-28" value="OCI Queue" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="238" width="70" height="29" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h5niV-6LIawMdhQsRi6P-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/353-Document_Process-128.png" parent="1" vertex="1">
-          <mxGeometry x="296.46" y="140" width="50" height="50" as="geometry" />
+          <mxGeometry x="301.76" y="140" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fr7Fc8tsfYqZcg6Z2y_0-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/444/aiga_information-128.png;imageBackground=#FF0000;imageBorder=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="271" width="40" height="40" as="geometry" />
@@ -119,8 +119,8 @@
         <mxCell id="fr7Fc8tsfYqZcg6Z2y_0-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/444/aiga_information-128.png;imageBackground=#FF0000;imageBorder=default;" vertex="1" parent="1">
           <mxGeometry x="702.92" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fr7Fc8tsfYqZcg6Z2y_0-6" value="Development owned by Deloitte&lt;br&gt;Release Deloitte/Dell?&amp;nbsp;&lt;br&gt;Who owns support?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.54;fontSize=8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;base=25;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="130" height="70" as="geometry" />
+        <mxCell id="fr7Fc8tsfYqZcg6Z2y_0-6" value="Development owned by Deloitte&lt;br&gt;Release Deloitte/Dell?&amp;nbsp;&lt;br&gt;Who owns support?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.23;fontSize=8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;base=25;shadow=0;size=30;position=0.15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fr7Fc8tsfYqZcg6Z2y_0-7" value="This list is a work in progress - need more details on the list of boundary apps" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fontSize=8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="740" y="500" width="130" height="80" as="geometry" />
